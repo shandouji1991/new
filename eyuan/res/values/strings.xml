@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">e缘爱你</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="sqlurl">
+        <item>http://localhost:8080/eyuannews/ListServlet?format=json</item>
+        <item>http://localhost:8080/eyuannews/NoticeServlet?format=json</item> 
+        <item>http://localhost:8080/eyuannews/NoticeServlet?format=json</item> 
+    </string-array>
+
+    
+    
+    <string name="guide_text01">\ne缘爱你\n超过7000人使用的校园网</string>
+    <string name="guide_text02">\n浏览校内新闻\n通晓校事是如此简单轻松</string>
+    <string name="guide_text03">透过了解公告\n你甚至可以比朋友们\n早一些报名各种赛事</string>
+    <string name="guide_text04">看看主题页面\n或者看看e缘新闻\n认识更多的学院活动</string>
+    <string name="guide_text05">\n这就是e缘\n但不是全部！</string>
+    <string name="guide_text06">\n\ne缘爱你，新的校园生活，</string>    
+    <string name="guide_btn_text">开始我的e缘生活</string>
+</resources>
